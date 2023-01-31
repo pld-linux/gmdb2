@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=MDB Tools
+Comment=GUI for MDB Tools
+Comment[pl]=Graficzna nakładka na MDB Tools
+Exec=gmdb2
+Type=Application
+Terminal=false
+Categories=Office;Database;GTK;GNOME;
+Icon=gmdb2
+# vi: encoding=utf-8
